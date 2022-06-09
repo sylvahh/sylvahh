@@ -4,7 +4,7 @@
         <p>if you just bumped into this page, welcome, feel free to browse through my projects  </p>
         <ul>
             <li>🔭I'm Currently working at https://www.devcamp.live , at free times i work on some personal projects </li>
-            <li>🌱I'm Currently learning JavaScipt(React) and getting familiar with CI/CD methology </li>
+            <li>🌱I'm Currently learning React, React-native </li>
             <li>👯I like to work collaboratively on projects so feel free to feature me on your project</li>
             <li>💬 Ask me about JavaScript, object-oriented programing(JavaScipt)</li>
             <li>📫Reach out to me on <a href="sylvesterchambers03@gmail.com">sylvesterchambers03@gmail.com</a> </li>
