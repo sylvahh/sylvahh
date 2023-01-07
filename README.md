@@ -3,7 +3,7 @@
         <h6>if you were directed to this page for recruitment purposes here is a link to <a href="http://www.sylvester-asoh.com.ng/" target="_blank" >My portfolio</a></h6>
         <p>if you just bumped into this page, welcome, feel free to browse through my projects  </p>
         <ul>
-            <li>🔭I'm Currently working at https://vterminal.ng/ , at free times i work on some personal projects </li>
+            <li>🔭I'm Currently working at https://vterminal.ng, at free times i work on some personal projects </li>
             <li>🌱I'm Currently learning React, React-native </li>
             <li>👯I like to work collaboratively on projects so feel free to feature me on your project</li>
             <li>💬 Ask me about JavaScript, object-oriented programing(JavaScipt)</li>
